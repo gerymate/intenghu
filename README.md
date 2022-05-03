@@ -7,4 +7,4 @@ International US English keyboard layout with proper Hungarian accents for Windo
 3. Run the created package (setup), and you'll have "United States-International - Hungarian" in the available keyboard selection.
 
 # Using
-Use the ALTgr + aeiou for accented characters áéíóú. Use ALTgr + y for ü and ALTgr + p for ö. Use ALTgr + j and uUoO after for űŰőŐ.
+Use the `ALTgr + aeiou` for accented characters `áéíóú`. Use `ALTgr + y` for `ü` and `ALTgr + p` for `ö`. Use `ALTgr + j` and `uUoO` after for `űŰőŐ`.
